@@ -1,6 +1,3 @@
 git03
-gitgitgitgitgit
-<<<<<<< HEAD
+gitgitgitgitgi
 222222222
-=======
->>>>>>> parent of d4b6773 (git03 first change)
